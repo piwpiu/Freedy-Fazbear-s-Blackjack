@@ -1,3 +1,3 @@
-Freddy Fazbear’s Blackjack
+# Freddy Fazbear’s Blackjack
 
 Aplikasi “Freddy Fazbear’s Blackjack” merupakan aplikasi permainan kartu blackjack yang bertujuan untuk mengimplementasikan Pembuatan Program dengan aspek Object Oriented Programming yang memiliki tujuan bukan hanya sebagai media hiburan, tetapi juga memberikan kesempatan berharga bagi pengembang untuk memperdalam pemahaman mereka tentang penggunaan berbagai konsep OOP. Bagi pemain, game ini tidak hanya memberikan hiburan saja, tetapi juga menjadi wadah untuk mengasah keterampilan strategis dan pengambilan keputusan. Maka dapat disimpulkan bahwa aplikasi "Freddy Fazbear’s Blackjack" bukan hanya sebuah game, tetapi juga proyek pembelajaran yang bermanfaat bagi pengembang dan pemain, memadukan kesenangan dengan peningkatan pemahaman konsep dasar OOP.
